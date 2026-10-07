@@ -1,23 +1,21 @@
-# Ruchi Chaudhari — Portfolio
+# Ruchi Chaudhari — GitHub Portfolio V4
 
-A static portfolio website for Ruchi Chaudhari, Brand Designer, built from the approved 37-page portfolio PDF.
+V4 is the V3 website with only the requested refinements:
+- Larger homepage avatar
+- Larger homepage headline
+- Two-font system: Breul Grotesk for headlines/display and Avenir for body/UI
+- Existing V3 layout, animation and interactions preserved
+- Existing portfolio PDF/project assets preserved
+- Contact phone number: +971 58 257 5412
 
-## Publish free with GitHub Pages
+## Run locally
+Open `index.html` in a browser.
 
-1. Create a GitHub account at https://github.com if you don't already have one.
-2. Create a **public** repository. Recommended name: `ruchi-chaudhari.github.io` if that username is available; otherwise use `ruchi-portfolio`.
-3. Upload **all files and folders in this project** while preserving the `assets/webp` folder.
-4. Open the repository's **Settings → Pages**.
-5. Under **Build and deployment**, choose **Deploy from a branch**.
-6. Select `main` and `/ (root)`, then Save.
-7. GitHub will publish the site. A user site normally appears at `https://YOUR-USERNAME.github.io/`; a project site appears at `https://YOUR-USERNAME.github.io/ruchi-portfolio/`.
+## GitHub Pages
+Upload the contents of this folder to the repository root and enable GitHub Pages from `main` / `(root)`.
 
-No paid hosting is required for a public GitHub Pages repository on GitHub Free.
+## Font note
+The CSS references the requested font family names. For exact rendering on every device, licensed webfont files for Breul Grotesk and Avenir can be added later via `@font-face`.
 
-## Notes
 
-- `index.html` is the website.
-- `styles.css` controls the visual design.
-- `script.js` handles the scroll progress bar and current year.
-- `assets/webp/` contains rendered portfolio pages used as web imagery.
-- `Ruchi-Chaudhari-Portfolio.pdf` is linked as the downloadable/full PDF portfolio.
+Typography update: the RC. brand mark uses Garet; all other typography remains unchanged.

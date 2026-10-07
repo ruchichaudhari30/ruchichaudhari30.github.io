@@ -1,21 +1,3 @@
-# Ruchi Chaudhari — GitHub Portfolio V4
+# Ruchi Chaudhari — GitHub Portfolio V6
 
-V4 is the V3 website with only the requested refinements:
-- Larger homepage avatar
-- Larger homepage headline
-- Two-font system: Breul Grotesk for headlines/display and Avenir for body/UI
-- Existing V3 layout, animation and interactions preserved
-- Existing portfolio PDF/project assets preserved
-- Contact phone number: +971 58 257 5412
-
-## Run locally
-Open `index.html` in a browser.
-
-## GitHub Pages
-Upload the contents of this folder to the repository root and enable GitHub Pages from `main` / `(root)`.
-
-## Font note
-The CSS references the requested font family names. For exact rendering on every device, licensed webfont files for Breul Grotesk and Avenir can be added later via `@font-face`.
-
-
-Typography update: the RC. brand mark uses Garet; all other typography remains unchanged.
+V6 is V5 with a mobile-only hero refinement. Desktop is unchanged. On screens up to 800px, the opening page keeps the headline cleanly separated from the avatar, with the avatar placed below/right rather than overlapping the headline. All other layout, animations, project content, interactions, and assets remain unchanged.
